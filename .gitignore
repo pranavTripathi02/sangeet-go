@@ -1,0 +1,10 @@
+.env
+Makefile
+albumNames
+albumsList
+artistsFirstNameList
+artistsLastNameList
+artistsList
+tracksList
+apiTest/
+cmd/
